@@ -34,6 +34,8 @@ public class Main {
         driver2.get("https://www.google.com/");
         driver2.quit();
 
+        //Modified this script using Webdriver Manager
+
     }
 
 }
